@@ -10,9 +10,9 @@
 
 #### Features
 ##### Custom Commands
-+ Auto Complete everything **[ usage shell \* = sh \*.sh OR bash \*.bash ]**
++ Auto Complete everything
 + Shows your name on the top with *figlet*
-+ Colorfull
++ Colorful
 
 + **Screenshot** 
 https://is.gd/tstylingss
