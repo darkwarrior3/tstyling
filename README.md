@@ -1,4 +1,5 @@
 # Made By DarkWarrior
+![logo](../Pic.jpg)
 ### This script will make your termux work productive and look better. Enjoy! ! 
 
 #### Installing
